@@ -11,8 +11,8 @@ firefox index.html
 
 ```
 npm i react react-dom react-bootstrap http-server
-npm install -g babel-cli
-npm install -g babel-preset-react
+npm install babel-cli
+npm install babel-preset-react
 babel index.js --presets react --out-dir=build
 http-server
 ```
