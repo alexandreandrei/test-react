@@ -1,2 +1,3 @@
 node_modules/
 precompiled/build/*.js
+precompiled-browserify/build/*.js
