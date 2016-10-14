@@ -1,0 +1,11 @@
+{
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/alexandreandrei/test-react.git"
+  },
+  "dependencies" : {
+    "react": "15.3.2",
+    "react-bootstrap": "0.30.5",
+    "react-dom": "15.3.2"
+  }
+}

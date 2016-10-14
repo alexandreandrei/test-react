@@ -1,6 +1,7 @@
-Reference React-Bootstrap : https://react-bootstrap.github.io/components.html
-
 ```
-npm i react react-dom react-bootstrap
-firefox index.html
+npm install
+npm install -g babel-cli
+npm install -g babel-preset-react
+babel index.js --presets react --out-dir=build
+http-server
 ```

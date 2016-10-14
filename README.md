@@ -2,8 +2,10 @@ React-Bootstrap : https://react-bootstrap.github.io/components.html
 
 ### Version "embedded"
 
+Les dépendances sont spécifiées dans le fichier 'package.json'.
+
 ```
-npm i react react-dom react-bootstrap
+npm install
 firefox index.html
 ```
 
