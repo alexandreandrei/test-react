@@ -12,7 +12,7 @@ firefox index.html
 ### Version "precompiled"
 
 ```
-npm i react react-dom react-bootstrap http-server
+npm install
 npm install babel-cli
 npm install babel-preset-react
 babel index.js --presets react --out-dir=build
